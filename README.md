@@ -4,6 +4,9 @@
 * [Twitter](https://twitter.com/ItsCrisDiaz)
 * [Linkedin](https://www.linkedin.com/in/itscrisdiaz/)
 * [Tech blog](https://www.itscrisdiaz.com) where I talk about web development, with emphasis in web accessiblity (Spanish only)
+
+Don't hesitate to ask me anything!
+
 ---
 ## 🐙 About me 
 
