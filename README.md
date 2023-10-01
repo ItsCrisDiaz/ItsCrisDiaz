@@ -23,7 +23,7 @@ Currently working at [Books and Books Ltda](https://www.booksandbooks.com.co/) a
 Some of my personal projects:
 
 * [Tech blog](https://www.itscrisdiaz.com/blog/) where I talk about topics like CSS, web accessibility and case studies (Spanish only).
-* [Financial analizer](https://itscrisdiaz.github.io/analizador-financiero/) made with JavaScript Vanilla. Currently in a redesign process where I work to make it more accessible while [documenting my design process](https://www.itscrisdiaz.com/blog/2021-12-27-rediseno-accesible-analizador-financiero/).
+* [Financial analyzer](https://itscrisdiaz.github.io/analizador-financiero/) made with vanilla JavaScript. Currently in a redesign process where I work to make it more accessible while [documenting my design process](https://www.itscrisdiaz.com/blog/2021-12-27-rediseno-accesible-analizador-financiero/).
 
 ---
 
